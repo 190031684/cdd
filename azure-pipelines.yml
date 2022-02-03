@@ -13,5 +13,5 @@ steps:
 - task: CmdLine@2
   inputs:
     script: |
-      javac AddTwoNumbers.java
-      java AddTwoNumbers
+      javac lab7.java
+      java lab7
